@@ -47,7 +47,6 @@ public class PipeCreator : MonoBehaviour
             }
         }
     }
-    float timeCount = 0f;
     void checkPipePos()
     {
        if(isMainGame)
